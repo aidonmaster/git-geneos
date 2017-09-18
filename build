@@ -1,0 +1,10 @@
+# This file automate the steps to create the binary
+# Generete the obj
+# Make it a library reposi 
+# Link the lib with program
+# Run
+
+gcc -c header.c -o header.o
+ar rc libreposi.a header.o
+gcc main.c -o main -L. -lreposi
+./main
