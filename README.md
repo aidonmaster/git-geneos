@@ -16,3 +16,27 @@ The content is in portuguese, you can to activate the translate on
 youtube if applicable.
 
 Tanks for visiting my GITHUB !
+
+
+# TIPS
+The file 'build' is to make the binary automatically, if you prefer can to creat step by step, remember to create the '.o' the '.a' the binary and linker. For to execute the 'build' use this comand on bash or MSDOS:
+
+# on linux
+
+	Make automaticaly:
+	    sh build
+	make manual:
+	    1º gcc -c header.c -o header.o
+	    2º ar rc libreposi.a header.o
+	    3º gcc main.c -o main -L. -lreposi
+	    4º ./main
+
+# on wondows
+
+	Automaticaly:
+	    build
+	Manual:
+	    1º gcc -c header.c -o header.o
+	    2º ar rc libreposi.a header.o
+	    3º gcc main.c -o main -L. -lreposi
+	    4º main
