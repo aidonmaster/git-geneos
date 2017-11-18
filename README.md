@@ -31,7 +31,7 @@ The file 'build' is to make the binary automatically, if you prefer can to creat
 	    3º gcc main.c -o main -L. -lreposi
 	    4º ./main
 
-# on wondows
+# on windows
 
 	Automaticaly:
 	    build
