@@ -109,7 +109,7 @@ void analyze(char vector[], int size){
 			show(vector, size);
 
 
-			// Delay time
+			// Delay time to show on console
 			for(int t = 0; t<30000000; t++);
 
 
