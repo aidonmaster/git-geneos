@@ -2,6 +2,10 @@
 #include "header.h"
 #include <stdlib.h>
 
+#define COST 10
+#define USER 0
+#define ERROR 1
+
 
 /*	Buffer of main vector
 	This function only copy
