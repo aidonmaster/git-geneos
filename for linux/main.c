@@ -27,6 +27,10 @@ line in vector, both must be consistent
 
 int main(void){
 
+	/*
+		Primeiro modelo de G.O.L 
+		Em breve a 2ª versão vem ai
+	*/
 	char vector[ LINE*LINE ];
 
 	for (int i = 0; i < LINE*LINE; i++)
