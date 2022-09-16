@@ -30,6 +30,7 @@ int main(void){
 	/*
 		Primeiro modelo de G.O.L 
 		Em breve a 2ª versão vem ai
+		3ª linha do comentario
 	*/
 	char vector[ LINE*LINE ];
 
