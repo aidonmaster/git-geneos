@@ -10,7 +10,7 @@ generated. that is whay the name this algorithtm is game of life
 Make a fork, download, contribute or only read this source code.
 The method whoe i use in this code, was the simple array, and the algorithm
 to read each block in vector is explained on video in this link
-https://www.youtube.com/watch?v=e_biSDsHMLU&list=PL8Z62A8AhAzSLgCXqXjOpMEvw-Fzi5GnH&index=4
+https://www.youtube.com/playlist?list=PL8Z62A8AhAzQHmBUqBc0v4bf1KMQeZpCM
 
 The content is in portuguese, you can to activate the translate on
 youtube if applicable.
